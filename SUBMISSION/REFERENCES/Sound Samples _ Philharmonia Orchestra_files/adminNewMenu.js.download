@@ -1,0 +1,4 @@
+$('#dropdown_admin').hide();
+$( "#topBar_admin" ).click('click', function() {
+	$('#dropdown_admin').animate({height: "toggle"});
+});

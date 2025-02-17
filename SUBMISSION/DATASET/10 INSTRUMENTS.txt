@@ -1,0 +1,11 @@
+INSTRUMENT USED IN EXPERIMENT 3
+organ
+french-horn
+cello 
+clarinet
+trambourine
+drum
+flute
+trumpet
+violin
+piano

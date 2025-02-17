@@ -1,0 +1,24 @@
+
+function closeLoginModal() {
+	$('#pageWhiteOut').remove();
+	$('#login-modal').remove();
+}
+function displayPasswordTyped(pass) {
+	$('#visible-password').val(pass);
+}
+function togglePasswordView() {
+	$('#visible-password').animate({height: "toggle"});
+	if($('#visible-password').height() >= 1) {
+		$('#toggle-password-view').removeClass('fa-eye-slash');
+		$('#toggle-password-view').addClass('fa-eye');
+		$('#toggle-password-view').attr('title','Show Password');
+		$('#toggle-password-view').attr('aria-title','Show Password');
+		//document.getElementById('invisible-password').style.borderRadius = '5px 5px 5px 5px';
+	} else {
+		$('#toggle-password-view').removeClass('fa-eye');
+		$('#toggle-password-view').addClass('fa-eye-slash');
+		$('#toggle-password-view').attr('title','Hide Password');
+		$('#toggle-password-view').attr('aria-title','Hide Password');
+		//document.getElementById('invisible-password').style.borderRadius = '5px 5px 0px 0px';
+	}
+}

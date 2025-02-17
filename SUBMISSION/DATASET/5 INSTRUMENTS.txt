@@ -1,0 +1,15 @@
+INSTRUMENT USED IN EXPERIMENT 1
+drum
+flute
+trumpet
+violin
+piano
+
+
+
+INSTRUMENT USED IN EXPERIMENT 2
+piano
+drum
+flute
+trumpet
+violin
