@@ -23,10 +23,12 @@ speakers without manual threshold selection,
 advancing open-set text-independent speaker 
 recognition. 
 
-# Code Information :  
+# Code Information (How to use) :  
 
 Codes and Datasets are arranged in separate folders for clear visiblity.
+
 'CODES' contains function-specific implementations, while 'DATASET' houses relevant input data. 
+
 Each directory includes clear documentation detailing code functionality and dataset descriptions for easy navigation and understanding.
 
 # How to cite
