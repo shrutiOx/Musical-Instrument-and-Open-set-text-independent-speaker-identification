@@ -3,7 +3,7 @@
 
 This is my MTech thesis code (done in 2017-2018). Thesis is uploaded in https://archive.org/details/shruti-sarika-chakraborty-identification-of-musical-instrument-and-human-speakers-based/page/n7/mode/2up
 
-#Abstract : 
+# Abstract : 
 
 This study addresses two key challenges in 
 audio signal analysis: musical instrument classification 
@@ -23,7 +23,9 @@ speakers without manual threshold selection,
 advancing open-set text-independent speaker 
 recognition. 
 
-Code Information :  Codes and Datasets are arranged in separate folders for clear visiblity.
+# Code Information :  
+
+Codes and Datasets are arranged in separate folders for clear visiblity.
 'CODES' contains function-specific implementations, while 'DATASET' houses relevant input data. 
 Each directory includes clear documentation detailing code functionality and dataset descriptions for easy navigation and understanding.
 
