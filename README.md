@@ -2,7 +2,10 @@
 # Title  : Identification of Musical Instrument and Human Speakers based on Audio Analysis and Pattern Recognition Techniques. 
 
 This is my MTech thesis code (done in 2017-2018). Thesis is uploaded in https://archive.org/details/shruti-sarika-chakraborty-identification-of-musical-instrument-and-human-speakers-based/page/n7/mode/2up
-Abstract : This study addresses two key challenges in 
+
+#Abstract : 
+
+This study addresses two key challenges in 
 audio signal analysis: musical instrument classification 
 and open-set speaker identification. For instrument 
 classification, we compare six acoustic features and 
